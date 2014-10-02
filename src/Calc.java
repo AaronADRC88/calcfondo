@@ -150,7 +150,13 @@ jTextField6.setText(String.valueOf(d));
     }//GEN-LAST:event_CalcularActionPerformed
 
     private void LimpiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_LimpiarActionPerformed
-        // TODO add your handling code here:
+       jTextField1.setText("");
+       jTextField2.setText("");
+       jTextField3.setText("");
+       jTextField4.setText("");
+       jTextField5.setText("");
+       jTextField6.setText("");
+       // TODO add your handling code here:
     }//GEN-LAST:event_LimpiarActionPerformed
 
     /**
